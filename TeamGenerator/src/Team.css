@@ -1,0 +1,9 @@
+.teams {
+  width: 200px;
+}
+.teamsDiv {
+  margin: 10px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
+}
