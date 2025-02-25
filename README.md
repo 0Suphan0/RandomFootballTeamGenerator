@@ -5,3 +5,4 @@ RandomFootballTeamGenerator is a simple React application developed to learn and
  - The spread operator (...) to update state immutably
  - The map() function to iterate over data
 ## Screenshots
+<img src="ProjectSS/Teams.png" width="auto">
